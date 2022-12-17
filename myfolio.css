@@ -343,8 +343,6 @@
 #intro{
     display: flex;
     width: 100%;
-    margin-left: 2%;
-
 }
 #intro h2{
     font-size: 1.5rem;
